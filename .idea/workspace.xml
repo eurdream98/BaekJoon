@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodingTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B0J1181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10250.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10817.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10998.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ11021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ11022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ11047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ15552.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2577.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2588.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2839.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ4673.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ5585.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ8293.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ9012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ9498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SMpc88r0DJY6QfjWBx9hi7Cz4H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurdr/OneDrive/바탕 화면/CodingTest/JavaCodingTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/eurdr/OneDrive/바탕 화면/JavaCodingTest/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.BOJ9012">
+    <configuration name="B0J1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B0J1181" />
+      <module name="JavaCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ10817" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ10817" />
+      <module name="JavaCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2720" />
+      <module name="JavaCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2750" />
+      <module name="JavaCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ9012" />
+      <module name="JavaCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BOJ9012" />
+        <item itemvalue="Application.B0J1181" />
+        <item itemvalue="Application.BOJ10817" />
+        <item itemvalue="Application.BOJ2750" />
+        <item itemvalue="Application.BOJ2720" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="" />
+      <created>1688966382917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688966382917</updated>
+      <workItem from="1688966383956" duration="22155000" />
+      <workItem from="1689145514239" duration="5106000" />
+      <workItem from="1689257390935" duration="3497000" />
+      <workItem from="1689853919373" duration="9120000" />
+      <workItem from="1691108821136" duration="4763000" />
+      <workItem from="1692453500879" duration="3563000" />
+      <workItem from="1692508610462" duration="7508000" />
+      <workItem from="1692528683068" duration="9950000" />
+      <workItem from="1692615354497" duration="1675000" />
+      <workItem from="1694652157634" duration="8923000" />
+      <workItem from="1695044854919" duration="392000" />
+      <workItem from="1696162572029" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ11021.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ1546.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ1110.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
