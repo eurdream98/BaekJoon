@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodingTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B0J1181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10250.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10718.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10817.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10828.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ10998.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ11022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ11399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1316.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1546.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ15552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2577.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2588.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2839.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ2884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ4673.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ5585.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ8293.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ9012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="boj">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,21 +27,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurdr/OneDrive/바탕 화면/CodingTest/JavaCodingTest&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/eurdr/OneDrive/바탕 화면/JavaCodingTest/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eurdr/Desktop/Body_Record_Test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/eurdr/OneDrive/바탕 화면/JavaCodingTest/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.BOJ9012">
     <configuration name="B0J1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B0J1181" />
@@ -155,11 +108,25 @@
       <workItem from="1694652157634" duration="8923000" />
       <workItem from="1695044854919" duration="392000" />
       <workItem from="1696162572029" duration="220000" />
+      <workItem from="1700140432250" duration="332000" />
+      <workItem from="1700212234327" duration="67000" />
     </task>
+    <task id="LOCAL-00001" summary="boj">
+      <created>1700140556751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700140556751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="boj" />
+    <option name="LAST_COMMIT_MESSAGE" value="boj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
