@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.11.23" />
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.11.25">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eurdr/Desktop/CodingTest/JavaCodingTest",
+    "last_opened_file_path": "C:/Users/eurdr/Desktop/Body_Record_Test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -118,6 +120,8 @@
       <workItem from="1700663270914" duration="273000" />
       <workItem from="1700725703581" duration="44000" />
       <workItem from="1700748718825" duration="44000" />
+      <workItem from="1700916979476" duration="51000" />
+      <workItem from="1700921116797" duration="1209000" />
     </task>
     <task id="LOCAL-00001" summary="boj">
       <created>1700140556751</created>
@@ -175,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700748755140</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2023.11.25">
+      <created>1700917018278</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700917018278</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +201,8 @@
     <MESSAGE value="2023.11.21" />
     <MESSAGE value="2023.11.22" />
     <MESSAGE value="2023.11.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.11.23" />
+    <MESSAGE value="2023.11.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.11.25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
