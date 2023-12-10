@@ -2,6 +2,7 @@ package src.main.java.A1B1O3.bodyrecord.body.dto.response;
 
 import A1B1O3.bodyrecord.body.domain.Body;
 import A1B1O3.bodyrecord.common.type.StatusType;
+import A1B1O3.bodyrecord.member.domain.Member;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -27,8 +28,8 @@ public class BodyDetailResponse {
         return new BodyDetailResponse(
                 body.getBodyCode(),
                 body.getWeight(),
-                body.getFat(),
                 body.getMuscle(),
+                body.getFat(),
                 body.getState(), // state 값 가져오기
                 body.getCreatedAt(),
                 body.getModifiedAt()

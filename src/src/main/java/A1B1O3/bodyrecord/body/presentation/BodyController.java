@@ -41,9 +41,9 @@ public class BodyController {
 
 
     @PostMapping
-    public ResponseEntity<Body> insert(@RequestBody BodyRequest bodyRequest,@AuthenticationPrincipal PrincipalDetails principalDetails) {
-        Body body = bodyService.insert(bodyRequest,principalDetails);
-        return new ResponseEntity<>(body, HttpStatus.CREATED);
+    public ResponseEntity<Void> insert(@RequestBody BodyRequest bodyRequest,@AuthenticationPrincipal PrincipalDetails principalDetails) {
+        bodyService.insert(bodyRequest,principalDetails);
+        return ResponseEntity.status(HttpStatus.CREATED).build();
     }
 
     @DeleteMapping("")

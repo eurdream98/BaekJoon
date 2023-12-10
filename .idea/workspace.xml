@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.05">
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/OAuth2SuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/OAuth2SuccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/domain/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/domain/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/service/PrincipalOAuth2DetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/service/PrincipalOAuth2DetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/domain/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/domain/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyDetailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/presentation/BodyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/presentation/BodyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/service/BodyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/service/BodyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberDetailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,24 +40,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurdr/Desktop/CodingTest/JavaCodingTest&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/eurdr/OneDrive/바탕 화면/JavaCodingTest/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eurdr/Desktop/CodingTest/JavaCodingTest/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/eurdr/OneDrive/바탕 화면/JavaCodingTest/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eurdr\Desktop\CodingTest\JavaCodingTest\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.BOJ9012">
     <configuration name="B0J1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B0J1181" />
@@ -125,6 +143,7 @@
       <workItem from="1700986084534" duration="83000" />
       <workItem from="1701182516282" duration="31000" />
       <workItem from="1701698545584" duration="1652000" />
+      <workItem from="1701854203293" duration="2800000" />
     </task>
     <task id="LOCAL-00001" summary="boj">
       <created>1700140556751</created>
@@ -217,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701787184541</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2023.12.06">
+      <created>1701854232376</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701854232376</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +263,8 @@
     <MESSAGE value="2023.11.28" />
     <MESSAGE value="2023.12.04" />
     <MESSAGE value="2023.12.05" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.12.05" />
+    <MESSAGE value="2023.12.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.12.06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
