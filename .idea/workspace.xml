@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.06">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/OAuth2SuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/OAuth2SuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/domain/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/domain/Token.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/service/PrincipalOAuth2DetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/service/PrincipalOAuth2DetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/domain/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/domain/Body.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyUpdateRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/presentation/BodyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/presentation/BodyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/service/BodyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/service/BodyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberResponse.java" afterDir="false" />
-    </list>
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eurdr/Desktop/CodingTest/JavaCodingTest/src",
+    "last_opened_file_path": "C:/Users/eurdr/Desktop/CodingTest/JavaCodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -144,6 +129,7 @@
       <workItem from="1701182516282" duration="31000" />
       <workItem from="1701698545584" duration="1652000" />
       <workItem from="1701854203293" duration="2800000" />
+      <workItem from="1702218323974" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="boj">
       <created>1700140556751</created>
@@ -243,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701854232376</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2023.12.10">
+      <created>1702218361435</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1702218361435</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +257,8 @@
     <MESSAGE value="2023.12.04" />
     <MESSAGE value="2023.12.05" />
     <MESSAGE value="2023.12.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.12.06" />
+    <MESSAGE value="2023.12.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.12.10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
