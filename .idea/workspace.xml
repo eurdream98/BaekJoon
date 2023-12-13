@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.11">
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurdr/Desktop/CodingTest/JavaCodingTest&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurdr/Desktop/Body_Record_Test2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -133,6 +133,8 @@
       <workItem from="1701854203293" duration="2800000" />
       <workItem from="1702218323974" duration="343000" />
       <workItem from="1702305776795" duration="359000" />
+      <workItem from="1702389245053" duration="849000" />
+      <workItem from="1702460105602" duration="1114000" />
     </task>
     <task id="LOCAL-00001" summary="boj">
       <created>1700140556751</created>
@@ -246,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702305813494</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2023.12.12">
+      <created>1702389282558</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1702389282558</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +278,8 @@
     <MESSAGE value="2023.12.06" />
     <MESSAGE value="2023.12.10" />
     <MESSAGE value="2023.12.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.12.11" />
+    <MESSAGE value="2023.12.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.12.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
