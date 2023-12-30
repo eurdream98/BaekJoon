@@ -4,112 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.13">
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/OnlyBodyRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/OnlyBodyUpdateRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/OnlyBodyDetailResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/OnlyBodyResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/presentation/BodyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipateState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/util/ChallengeUploadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/util/UploadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/db/data-mysql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/db/schema-mysql.sql" afterDir="false" />
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BOJ155570.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BOJ15568.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/StructureApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/StructureApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/dto/response/ChallengeAdminResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeAdminResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationAdminResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationAdminResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationReportDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationReportDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationReportResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationReportResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/dto/response/ChallengeDetailAdminResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeDetailAdminResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/dto/response/ChallengeReportDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeReportDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/dto/response/ChallengeReportResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeReportResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/presentation/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/presentation/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/admin/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/service/AdminService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/OAuth2SuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/OAuth2SuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/domain/PrincipalDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/domain/PrincipalDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/domain/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/domain/Token.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/domain/repository/TokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/domain/repository/TokenRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/jwt/JwtAccessDeniedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtAccessDeniedHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/jwt/JwtAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtAuthenticationEntryPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/jwt/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/jwt/JwtTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtTokenProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/service/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/auth/service/PrincipalOAuth2DetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/service/PrincipalOAuth2DetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/domain/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/domain/Body.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/domain/repository/BodyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/domain/repository/BodyRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/BodyRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/request/BodyUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/BodyUpdateRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/BodyDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/dto/response/BodyResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/BodyResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/presentation/BodyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/body/service/BodyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/service/BodyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/Challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCertification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCertification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCertificationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCertificationRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipateRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipateState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/request/ChallengeCertificationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/request/ChallengeCertificationRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/request/ChallengeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/request/ChallengeRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/response/ChallengeCategoryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeCategoryResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/response/ChallengeCertificationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeCertificationResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/response/ChallengeDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/response/ChallengeNewResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeNewResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/response/ChallengePopularResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengePopularResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/response/ChallengeResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/dto/response/MyChallengeResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/MyChallengeResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/presentation/ChallengeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/presentation/ChallengeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/challenge/service/ChallengeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/service/ChallengeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/exception/AuthException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/AuthException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/exception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/BadRequestException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/exception/ExceptionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/ExceptionResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/exception/UnauthorizedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/UnauthorizedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/exception/type/ExceptionCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/type/ExceptionCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/common/type/StatusType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/type/StatusType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/domain/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/domain/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/domain/repository/ExerciseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/domain/repository/ExerciseRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/dto/request/ExerciseRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/request/ExerciseRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/dto/request/ExerciseUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/request/ExerciseUpdateRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/dto/response/ExerciseDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/response/ExerciseDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/dto/response/ExerciseResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/response/ExerciseResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/dto/response/SearchResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/response/SearchResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/presentation/ExerciseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/presentation/ExerciseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/exercise/service/ExerciseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/service/ExerciseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/MemberState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/MemberState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/domain/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/repository/MemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/request/MemberRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/request/MemberRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/request/MemberUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/request/MemberUpdateRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/response/MemberDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/dto/response/MemberResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/response/MemberResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/presentation/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/presentation/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/service/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/domain/repository/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/domain/repository/ReportCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/domain/repository/ReportCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportCategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/domain/repository/ReportRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/domain/repository/ReportState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/dto/request/ReportRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/dto/request/ReportRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/presentation/ReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/presentation/ReportController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/A1B1O3/bodyrecord/report/service/ReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/service/ReportService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/resources/db/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/test/BOJ155567.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/test/java/com/example/structure/BodyControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/test/java/com/example/structure/StructureApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,24 +27,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eurdr/Desktop/Body_Record_Test2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eurdr/OneDrive/바탕 화면/JavaCodingTest/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurdr/Desktop/CodingTest/JavaCodingTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/eurdr/OneDrive/바탕 화면/JavaCodingTest/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\eurdr\Desktop\CodingTest\JavaCodingTest\src" />
@@ -249,6 +145,8 @@
       <workItem from="1702722406619" duration="12000" />
       <workItem from="1702744637264" duration="1848000" />
       <workItem from="1702752802381" duration="147000" />
+      <workItem from="1702997805294" duration="124000" />
+      <workItem from="1703663968991" duration="935000" />
     </task>
     <task id="LOCAL-00001" summary="boj">
       <created>1700140556751</created>
@@ -376,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702472319030</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2023.12.19">
+      <created>1702997870271</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702997870271</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +306,8 @@
     <MESSAGE value="2023.12.11" />
     <MESSAGE value="2023.12.12" />
     <MESSAGE value="2023.12.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.12.13" />
+    <MESSAGE value="2023.12.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.12.19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
