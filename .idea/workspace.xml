@@ -4,8 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.19">
+    <list default="true" id="057b5512-2dd6-4f0b-9218-68d9ec6b56c3" name="Changes" comment="2023.12.30">
+      <change afterPath="$PROJECT_DIR$/src/BOJ1009.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ155563.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/StructureApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeAdminResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationAdminResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationReportDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeCertificationReportResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeDetailAdminResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeReportDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/dto/response/ChallengeReportResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/presentation/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/admin/service/AdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/OAuth2SuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/domain/PrincipalDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/domain/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/domain/repository/TokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/jwt/JwtTokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/service/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/auth/service/PrincipalOAuth2DetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/domain/Body.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/domain/repository/BodyRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/BodyRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/BodyUpdateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/OnlyBodyRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/request/OnlyBodyUpdateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/BodyDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/BodyResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/OnlyBodyDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/dto/response/OnlyBodyResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/presentation/BodyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/body/service/BodyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/Challenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCertification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeCertificationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeParticipateState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/domain/repository/ChallengeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/request/ChallengeCertificationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/request/ChallengeRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeCategoryResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeCertificationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeNewResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengePopularResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/ChallengeResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/dto/response/MyChallengeResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/presentation/ChallengeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/challenge/service/ChallengeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/AuthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/BadRequestException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/ExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/UnauthorizedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/exception/type/ExceptionCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/common/type/StatusType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/domain/Exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/domain/repository/ExerciseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/request/ExerciseRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/request/ExerciseUpdateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/response/ExerciseDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/response/ExerciseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/dto/response/SearchResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/presentation/ExerciseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/exercise/service/ExerciseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/MemberState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/domain/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/request/MemberRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/request/MemberUpdateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/response/MemberDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/dto/response/MemberResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/presentation/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/member/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/domain/repository/ReportState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/dto/request/ReportRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/presentation/ReportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/report/service/ReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/util/ChallengeUploadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1B1O3/bodyrecord/util/UploadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ155565.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ155566.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ155569.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/BOJ15571.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/db/data-mysql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/db/schema-mysql.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +153,7 @@
       <recent name="C:\Users\eurdr\Desktop\CodingTest\JavaCodingTest\src\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ9012">
+  <component name="RunManager" selected="Application.BOJ1009">
     <configuration name="B0J1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B0J1181" />
       <module name="JavaCodingTest" />
@@ -60,15 +161,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ10817" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ10817" />
+    <configuration name="BOJ1009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1009" />
       <module name="JavaCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2720" />
+    <configuration name="BOJ10817" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ10817" />
       <module name="JavaCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ1009" />
         <item itemvalue="Application.BOJ9012" />
         <item itemvalue="Application.B0J1181" />
         <item itemvalue="Application.BOJ10817" />
         <item itemvalue="Application.BOJ2750" />
-        <item itemvalue="Application.BOJ2720" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +248,7 @@
       <workItem from="1702752802381" duration="147000" />
       <workItem from="1702997805294" duration="124000" />
       <workItem from="1703663968991" duration="935000" />
+      <workItem from="1703931683628" duration="1658000" />
     </task>
     <task id="LOCAL-00001" summary="boj">
       <created>1700140556751</created>
@@ -281,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702997870271</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2023.12.30">
+      <created>1703931737621</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1703931737621</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +416,8 @@
     <MESSAGE value="2023.12.12" />
     <MESSAGE value="2023.12.13" />
     <MESSAGE value="2023.12.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.12.19" />
+    <MESSAGE value="2023.12.30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.12.30" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
