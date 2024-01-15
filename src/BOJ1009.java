@@ -1,3 +1,6 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.nio.Buffer;
 import java.util.Scanner;
 
 public class BOJ1009 {
@@ -17,5 +20,7 @@ public class BOJ1009 {
             System.out.println(multiply);
             cnt--;
         }
+
+
     }
 }
